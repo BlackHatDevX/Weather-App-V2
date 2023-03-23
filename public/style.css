@@ -162,12 +162,13 @@ a {
   .weather h1 {
     font-size: 60px;
     font-weight: 500;
+    margin-top:3px
   }
 
   .weather h2 {
     font-size: 35px;
     font-weight: 400;
-    margin-top: -10px;
+    margin-top: -5px;
   }
 
   .details {
