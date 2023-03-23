@@ -4,7 +4,7 @@ This is a weather web app developed by @jashgro that displays the current temper
 
 ## Usage
 
-To use the app, simply visit [HERE](bit.ly/weatherAppV2) and enter the name of the city you would like to see the weather for in the search bar. The app will then display the current temperature in Celsius, humidity, and wind speed for that city, as well as an image or logo that reflects the current weather conditions.
+To use the app, simply visit [bit.ly/weatherAppV2](http://bit.ly/weatherAppV2) and enter the name of the city you would like to see the weather for in the search bar. The app will then display the current temperature in Celsius, humidity, and wind speed for that city, as well as an image or logo that reflects the current weather conditions.
 
 ## Interface
 
