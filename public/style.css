@@ -125,11 +125,9 @@ button img {
 a {
   text-decoration: none;
 }
-
 .weather {
   display: none;
 }
-
 .error {
   display: none;
 }
@@ -139,12 +137,61 @@ a {
   font-weight: 600;
 }
 
-@media only screen and (max-width: 469px) {
+@media only screen and (max-width: 600px) {
   .details {
     display: flex;
     align-items: center;
-    flex-direction: column;
     justify-content: space-between;
     height: 130px;
+  }
+  .card {
+    margin: 5px auto 0;
+  }
+  .icon-container {
+    height: 140px;
+  }
+  .weather-icon {
+    width: 130px;
+    margin-top: 30px;
+    transition: 0.3s;
+  }
+
+  .weather-icon:hover {
+    width: 140px;
+  }
+  .weather h1 {
+    font-size: 60px;
+    font-weight: 500;
+  }
+
+  .weather h2 {
+    font-size: 35px;
+    font-weight: 400;
+    margin-top: -10px;
+  }
+
+  .details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding: 0 15px;
+  }
+
+  .col {
+    display: flex;
+    align-items: center;
+    text-align: left;
+  }
+
+  .col img {
+    width: 20px;
+    margin-right: 5px;
+  }
+
+  .humidity,
+  .wind {
+    font-size: 22px;
+    margin-top: -6px;
   }
 }
