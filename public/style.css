@@ -126,6 +126,10 @@ a {
   text-decoration: none;
 }
 
+.weather {
+  display: none;
+}
+
 .error {
   display: none;
 }
