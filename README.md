@@ -1,4 +1,4 @@
-# Weather Web App
+# Weather App V2
 
 This is a weather web app developed by @jashgro that displays the current temperature in Celsius, humidity, and wind speed for a given city. The app also displays images or logos based on the current weather conditions. 
 
