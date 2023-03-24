@@ -2,6 +2,11 @@
 
 This is a weather web app developed by @jashgro that displays the current temperature in Celsius, humidity, and wind speed for a given city. The app also displays images or logos based on the current weather conditions. 
 
+
+## Screenshot
+![work-4](https://user-images.githubusercontent.com/91268029/227571089-8c8092de-42da-44b2-af2e-e11ae086471e.png)
+
+
 ## Usage
 
 To use the app, simply visit [bit.ly/weatherAppV2](http://bit.ly/weatherAppV2) and enter the name of the city you would like to see the weather for in the search bar. The app will then display the current temperature in Celsius, humidity, and wind speed for that city, as well as an image or logo that reflects the current weather conditions.
